@@ -30,8 +30,8 @@ System that takes your Resume as input and parse the content in JSON format.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/resume-to-json-parser.git
-    cd resume-to-json-parser
+    https://github.com/mayurd8862/pdf-to-json-parser.git
+    cd pdf-to-json-parser
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
