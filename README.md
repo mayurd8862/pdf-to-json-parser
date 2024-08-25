@@ -1,5 +1,5 @@
 
-# 📋 Resume to JSON Parser
+# 📋Resume to JSON Parser
 
 This project is a Streamlit application that converts a resume in PDF format to a JSON object. It uses the Google Gemini language model for natural language processing and PyPDF2 for reading PDF files.
 
